@@ -33,5 +33,9 @@ The system has three user roles:
 ### Additional Features
 - Facing advantages: some plots have facing advantages such as road facing, corner, west open, etc. The system allows the main admin to manage and maintain these details for each plot.
 
+### Security Features
+- Secure authentication and authorization: The Real Estate Management System should have secure authentication and authorization mechanisms to ensure the system's security. The system should have a strong and secure login process, to prevent unauthorized access. It should also implement strict authorization rules to restrict access to sensitive data and functionalities based on user roles and permissions, preventing unauthorized access or modification of data.
+- Secure API: The system should have a secure API that follows industry-standard security protocols, such as HTTPS, to encrypt data during transmission and prevent data breaches or unauthorized access to the system. The API should also have authentication and authorization mechanisms to verify the identity of external applications and restrict access to sensitive data and functionalities.
+
 ## Conclusion
 The Real Estate Management System is a comprehensive system designed to manage the inventory and financial aspects of a real estate company. It provides an easy-to-use interface for managing different roles and includes all necessary features to maintain accurate records and manage the system efficiently.
